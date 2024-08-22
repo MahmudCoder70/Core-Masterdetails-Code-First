@@ -1,0 +1,1 @@
+# Core-Masterdetails-Code-First
